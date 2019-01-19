@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.4.2]
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
 *.crwdcntrl.net*$third-party
