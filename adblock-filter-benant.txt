@@ -1,0 +1,14 @@
+*.adnavi.co.kr*$third-party
+*.bayabar.com*$third-party
+*.crwdcntrl.net*$third-party
+*.keywordsconnect.com*$third-party
+*.simpli.fi*$third-party
+*.hu.co.kr*$third-party
+compass.adop.cc*$third-party
+cdn.taboola.com*$third-party
+mail.daum.net##div[id="daBanner"]
+##.adsbyadop
+torrentao.com##.sidebar
+##[id^=banner]
+##[id$=banner]
+*/banner/*
