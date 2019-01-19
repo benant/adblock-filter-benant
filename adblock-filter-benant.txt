@@ -1,12 +1,19 @@
 [Adblock Plus 3.4.2]
+! URL
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
 *.crwdcntrl.net*$third-party
 *.keywordsconnect.com*$third-party
 *.simpli.fi*$third-party
 *.hu.co.kr*$third-party
+*.treasuredata.com*$third-party
+*.popin.cc*$third-party
+*.joyninfo.com*$third-party
+*.kodcad.kr*$third-party
+*.sunnyworks.co.kr*$third-party
 compass.adop.cc*$third-party
 cdn.taboola.com*$third-party
+! DOM 
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
 torrentao.com##.sidebar
