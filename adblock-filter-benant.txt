@@ -4,25 +4,26 @@
 ! Version: 20190120
 ! Translate simple filters - https://adblockplus.org/en/deregifier
 ! Find useless filters - https://adblockplus.org/ko/redundancy_check
-! Domain filter
-*.adnavi.co.kr*$script,subdocument,third-party
-*.bayabar.com*$script,subdocument,third-party
-*.crwdcntrl.net*$script,subdocument,third-party
-*.keywordsconnect.com*$script,subdocument,third-party
-*.simpli.fi*$script,subdocument,third-party
-*.hu.co.kr*$script,subdocument,third-party
-*.treasuredata.com*$script,subdocument,third-party
-*.popin.cc*$script,subdocument,third-party
-*.joyninfo.com*$script,subdocument,third-party
-*.kodcad.kr*$script,subdocument,third-party
-*.sunnyworks.co.kr*$script,subdocument,third-party
-*.dable.io*$script,subdocument,third-party
-*.mman.kr*$script,subdocument,third-party
-compass.adop.cc*$script,subdocument,third-party
-cdn.taboola.com*$script,subdocument,third-party
-*/ad/*$subdocument,third-party
-*adbiz*.co.kr*$script,subdocument,third-party
-*.innorame.com*$script,subdocument,third-party
+! URL filter
+*.adnavi.co.kr*$third-party
+*.bayabar.com*$third-party
+*.crwdcntrl.net*$third-party
+*.keywordsconnect.com*$third-party
+*.simpli.fi*$third-party
+*.hu.co.kr*$third-party
+*.treasuredata.com*$third-party
+*.popin.cc*$third-party
+*.joyninfo.com*$third-party
+*.kodcad.kr*$third-party
+*.sunnyworks.co.kr*$third-party
+*.dable.io*$third-party
+compass.adop.cc*$third-party
+cdn.taboola.com*$third-party
+*adbiz*.co.kr*$subdocument
+*.mman.kr*$third-party
+*cdnprisms.pandora.tv*$third-party
+*.innorame.com*$subdocument
+*/ad/*$subdocument
 ! DOM filter
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
