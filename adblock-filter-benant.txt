@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/benant/adblock-filter-benant/
 ! Title: benant
 ! Version: 20190120
+
 ! URL
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
@@ -18,6 +19,7 @@
 compass.adop.cc*$third-party
 cdn.taboola.com*$third-party
 adbiz*.co.kr
+
 ! DOM 
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
