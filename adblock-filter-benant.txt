@@ -4,7 +4,7 @@
 ! Version: 20190120
 ! Translate simple filters - https://adblockplus.org/en/deregifier
 ! Find useless filters - https://adblockplus.org/ko/redundancy_check
-! URL
+! Domain filter
 *.adnavi.co.kr*$script,subdocument,third-party
 *.bayabar.com*$script,subdocument,third-party
 *.crwdcntrl.net*$script,subdocument,third-party
@@ -22,7 +22,8 @@ compass.adop.cc*$script,subdocument,third-party
 cdn.taboola.com*$script,subdocument,third-party
 */ad/*$subdocument,third-party
 *adbiz*.co.kr*$script,subdocument,third-party
-! DOM 
+*.innorame.com*$script,subdocument,third-party
+! DOM filter
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
 torrentao.com##.sidebar
