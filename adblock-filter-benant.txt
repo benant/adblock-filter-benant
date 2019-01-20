@@ -17,6 +17,7 @@
 *.dable.io*$third-party
 compass.adop.cc*$third-party
 cdn.taboola.com*$third-party
+adbiz*.co.kr
 ! DOM 
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
