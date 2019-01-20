@@ -4,6 +4,11 @@
 주로 광고라고 생각되고 보기 싫은 것들을 차단합니다. 컨텐츠와 광고가 혼합된 광고 솔루션도 차단합니다.
 다양한 환경에서 태스트하지 못합니다. 그래서 문제가 발생할 수도 있습니다. 문제 발생하면 필터를 제거해주세요.
 
+아래 2개의 필터와 병행하여 사용합니다.
+
+* ABP anti-circumvention filter list: https://github.com/abp-filters/abp-filters-anti-cv
+* EasyList: https://easylist.to/
+
 # 필터 적용방법
 필터 파일 URL: https://raw.githubusercontent.com/benant/adblock-filter-benant/master/adblock-filter-benant.txt
 
