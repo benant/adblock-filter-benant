@@ -31,3 +31,5 @@ torrentao.com##.sidebar
 ##[id^=banner]
 ##[id$=banner]
 */banner/*
+ytn.co.kr##.articleAd_new
+ytn.co.kr##.articleAd_marketing
