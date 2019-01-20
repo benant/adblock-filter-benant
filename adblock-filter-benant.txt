@@ -1,4 +1,7 @@
 [Adblock Plus 3.4.2]
+! Homepage: https://github.com/benant/adblock-filter-benant/
+! Title: benant
+! Version: 20190119
 ! URL
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
