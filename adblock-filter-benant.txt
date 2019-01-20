@@ -33,3 +33,4 @@ torrentao.com##.sidebar
 */banner/*
 ytn.co.kr##.articleAd_new
 ytn.co.kr##.articleAd_marketing
+ytn.co.kr##.adright_box
