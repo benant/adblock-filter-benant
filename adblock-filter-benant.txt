@@ -3,7 +3,7 @@
 ! Title: benant
 ! Version: 20190120
 ! Translate simple filters - https://adblockplus.org/en/deregifier
-! Duplicate Check - https://adblockplus.org/ko/redundancy_check
+! Find useless filters - https://adblockplus.org/ko/redundancy_check
 ! URL
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
