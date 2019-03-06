@@ -34,3 +34,4 @@ torrentao.com##.sidebar
 ytn.co.kr##.articleAd_new
 ytn.co.kr##.articleAd_marketing
 ytn.co.kr##.adright_box
+danawa.com##.main_ad_prodlist
