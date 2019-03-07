@@ -25,7 +25,7 @@ cdn.taboola.com*$third-party
 *.innorame.com*$subdocument
 */ad/*$subdocument
 ! Ad Server
-xsgcobwd.com
+xsgcobwd.com##*
 ! DOM filter
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
