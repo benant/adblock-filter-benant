@@ -40,5 +40,5 @@ danawa.com##.main_ad_prodlist
 *.bodloster.com
 youtube.com###chat
 bbc.com##.story-body__unordered-list
-torrentzozo.com##a[target=_blank]
+torrentzozo.com##a[target=_blank]:not([class=view_image])
 *.clicktq.com
