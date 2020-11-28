@@ -41,4 +41,4 @@ danawa.com##.main_ad_prodlist
 youtube.com###chat
 bbc.com##.story-body__unordered-list
 torrentzozo.com##a[target=_blank]
-
+*.clicktq.com
