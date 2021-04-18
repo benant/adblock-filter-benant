@@ -47,3 +47,4 @@ torrentzozo.com##a[target=_blank]:not([class=view_image])
 _banner/*
 ! Fissing Site
 daurn.net##*
+coinnone.net##*
