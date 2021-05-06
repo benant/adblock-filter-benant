@@ -33,6 +33,8 @@ torrentao.com##.sidebar
 ##[id^=banner]
 ##[id$=banner]
 */banner/*
+! YouTube
+youtube.com##.ytp-pause-overlay
 _banner/*
 ytn.co.kr##.articleAd_new
 ytn.co.kr##.articleAd_marketing
