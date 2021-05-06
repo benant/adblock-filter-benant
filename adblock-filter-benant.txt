@@ -33,15 +33,12 @@ torrentao.com##.sidebar
 ##[id^=banner]
 ##[id$=banner]
 */banner/*
-! YouTube
-youtube.com##.ytp-pause-overlay
 _banner/*
 ytn.co.kr##.articleAd_new
 ytn.co.kr##.articleAd_marketing
 ytn.co.kr##.adright_box
 danawa.com##.main_ad_prodlist
 *.bodloster.com
-youtube.com###chat
 bbc.com##.story-body__unordered-list
 torrentzozo.com##a[target=_blank]:not([class=view_image])
 *.clicktq.com
@@ -50,3 +47,6 @@ _banner/*
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
+! YouTube
+youtube.com##.ytp-pause-overlay
+youtube.com###chat
