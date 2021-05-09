@@ -50,3 +50,8 @@ coinnone.net##*
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
+! fake news
+chosun.com##*
+joins.com##*
+donga.com##*
+ilbe.com##*
