@@ -47,6 +47,7 @@ _banner/*
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
+coinnoinc.com##*
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
