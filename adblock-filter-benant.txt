@@ -48,6 +48,7 @@ _banner/*
 daurn.net##*
 coinnone.net##*
 coinnoinc.com##*
+naverccrp.com##*
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
