@@ -32,6 +32,7 @@ mail.daum.net##div[id="daBanner"]
 torrentao.com##.sidebar
 ##[id^=banner]
 ##[id$=banner]
+/banner/*
 */banner/*
 _banner/*
 ytn.co.kr##.articleAd_new
