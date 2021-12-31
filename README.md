@@ -18,3 +18,6 @@
 # 문의 및 요청사항
 빠르게 응답할 수 있을지 모르겠지만 Issues에 글 남겨주세요.
 업데이트가 느림을 양해해주세요. 
+
+# 필터 작성방법
+https://help.eyeo.com/en/adblockplus/how-to-write-filters 를 참고하세요.
