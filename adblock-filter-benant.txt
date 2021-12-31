@@ -33,6 +33,7 @@ torrentao.com##.sidebar
 ##[id^=banner]
 ##[id$=banner]
 /banner/*
+##a[href*="bannerhit.php"]
 */banner/*
 _banner/*
 ytn.co.kr##.articleAd_new
