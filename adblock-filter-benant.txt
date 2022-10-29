@@ -55,7 +55,7 @@ naverccrp.com##*
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
 ! fake news
-chosun.com##*
-joins.com##*
-donga.com##*
+www.chosun.com##*
+www.joongang.co.kr##*
+www.donga.com##*
 ilbe.com##*
