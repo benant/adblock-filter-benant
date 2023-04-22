@@ -54,9 +54,11 @@ naverccrp.com##*
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
+coupangplay.com##.PlayerReco_playerReco__4NjVR
 ! fake news
 www.chosun.com##*
 www.joongang.co.kr##*
 www.donga.com##*
 ilbe.com##*
 tl.ytlogs.ru##*
+
