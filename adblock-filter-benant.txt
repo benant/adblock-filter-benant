@@ -46,6 +46,7 @@ torrentzozo.com##a[target=_blank]:not([class=view_image])
 *.clicktq.com
 ##.title_block_facebook
 _banner/*
+s24.sonagitv.live##.blocks-gallery-grid
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
