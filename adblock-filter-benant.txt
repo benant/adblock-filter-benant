@@ -52,6 +52,7 @@ daurn.net##*
 coinnone.net##*
 coinnoinc.com##*
 naverccrp.com##*
+footagegift.com##*
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
