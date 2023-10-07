@@ -47,6 +47,9 @@ torrentzozo.com##a[target=_blank]:not([class=view_image])
 ##.title_block_facebook
 _banner/*
 s24.sonagitv.live##.blocks-gallery-grid
+cokcok.net##.custom_banner_wrap
+fosspost.org##.fc-dialog-container
+linuxlinks.com##.fc-dialog-container
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
@@ -58,6 +61,8 @@ superchatlive.com##*
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
+youtube.com##.opened
+youtube.com##.style-scope.ytd-popup-container
 coupangplay.com##.PlayerReco_playerReco__4NjVR
 ! fake news
 www.chosun.com##*
