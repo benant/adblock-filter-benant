@@ -50,6 +50,7 @@ s24.sonagitv.live##.blocks-gallery-grid
 cokcok.net##.custom_banner_wrap
 fosspost.org##.fc-dialog-container
 linuxlinks.com##.fc-dialog-container
+sonagitv.live##.popup_frame
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
