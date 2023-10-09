@@ -46,11 +46,12 @@ torrentzozo.com##a[target=_blank]:not([class=view_image])
 *.clicktq.com
 ##.title_block_facebook
 _banner/*
-s24.sonagitv.live##.blocks-gallery-grid
+sonagitv.live##.blocks-gallery-grid
+sonagitv.live##.popup_frame
+sonagitv.live##.safead_item
 cokcok.net##.custom_banner_wrap
 fosspost.org##.fc-dialog-container
 linuxlinks.com##.fc-dialog-container
-sonagitv.live##.popup_frame
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
