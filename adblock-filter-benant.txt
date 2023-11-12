@@ -28,6 +28,7 @@ cdn.taboola.com*$third-party
 xsgcobwd.com##*
 massiveear.com##*
 inclineflaming.com##*
+discussedfacultative.com##*
 ! DOM filter
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
