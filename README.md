@@ -10,8 +10,8 @@
 * EasyList: https://easylist.to/
 
 # 필터 적용방법
-필터 파일 URL1: https://raw.githubusercontent.com/benant/adblock-filter-benant/master/adblock-filter-benant.txt
-필터 파일 URL2: https://cdn.jsdelivr.net/gh/benant/adblock-filter-benant@master/adblock-filter-benant.txt
+필터 파일 URL1: https://raw.githubusercontent.com/benant/adblock-filter-benant/master/adblock-filter-benant.txt    
+필터 파일 URL2: https://cdn.jsdelivr.net/gh/benant/adblock-filter-benant@master/adblock-filter-benant.txt    
 
 위 URL을 필터 목록에 추가하면 됩니다.
 또는 커스텀 필터에 내용을 복사&붙여넣기 하셔도 됩니다.
