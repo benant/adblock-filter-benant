@@ -75,4 +75,6 @@ www.joongang.co.kr##*
 www.donga.com##*
 ilbe.com##*
 tl.ytlogs.ru##*
-
+! ads on Dark
+olymptrade.com##*
+dexpredict.com##*
