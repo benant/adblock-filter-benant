@@ -4,7 +4,13 @@
 ! Version: 20190120
 ! Translate simple filters - https://adblockplus.org/en/deregifier
 ! Find useless filters - https://adblockplus.org/ko/redundancy_check
+! Ad Server
+xsgcobwd.com##*
+massiveear.com##*
+inclineflaming.com##*
+discussedfacultative.com##*
 ! URL filter
+*.bodloster.com
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
 *.crwdcntrl.net*$third-party
@@ -24,13 +30,7 @@ cdn.taboola.com*$third-party
 *cdnprisms.pandora.tv*$third-party
 *.innorame.com*$subdocument
 */ad/*$subdocument
-! Ad Server
-xsgcobwd.com##*
-massiveear.com##*
-inclineflaming.com##*
-discussedfacultative.com##*
 ! DOM filter
-mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
 torrentao.com##.sidebar
 ##[id^=banner]
@@ -39,22 +39,25 @@ torrentao.com##.sidebar
 ##a[href*="bannerhit.php"]
 */banner/*
 _banner/*
-ytn.co.kr##.articleAd_new
-ytn.co.kr##.articleAd_marketing
-ytn.co.kr##.adright_box
-danawa.com##.main_ad_prodlist
-*.bodloster.com
-bbc.com##.story-body__unordered-list
-torrentzozo.com##a[target=_blank]:not([class=view_image])
 *.clicktq.com
 ##.title_block_facebook
 _banner/*
+! TVs
+bbc.com##.story-body__unordered-list
+ytn.co.kr##.articleAd_new
+ytn.co.kr##.articleAd_marketing
+ytn.co.kr##.adright_box
+tvmon.help##.banner_wrap2
+torrentzozo.com##a[target=_blank]:not([class=view_image])
+hoohootv39.xyz###img_row_container
 sonagitv.live##.blocks-gallery-grid
 sonagitv.live##.popup_frame
 sonagitv.live##.safead_item
 cokcok.net##.custom_banner_wrap
+! Common Site
 fosspost.org##.fc-dialog-container
 linuxlinks.com##.fc-dialog-container
+mail.daum.net##div[id="daBanner"]
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
@@ -78,3 +81,5 @@ tl.ytlogs.ru##*
 ! ads on Dark
 olymptrade.com##*
 dexpredict.com##*
+! shopping
+danawa.com##.main_ad_prodlist
