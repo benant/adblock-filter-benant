@@ -48,6 +48,7 @@ ytn.co.kr##.articleAd_new
 ytn.co.kr##.articleAd_marketing
 ytn.co.kr##.adright_box
 tvmon.help##.banner_wrap2
+tvmon.help##.pc-only
 torrentzozo.com##a[target=_blank]:not([class=view_image])
 hoohootv39.xyz###img_row_container
 sonagitv.live##.blocks-gallery-grid
