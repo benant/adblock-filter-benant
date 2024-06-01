@@ -68,10 +68,10 @@ footagegift.com##*
 ! 19
 superchatlive.com##*
 ! YouTube
-youtube.com##.ytp-pause-overlay
-youtube.com###chat
-youtube.com##.opened
-youtube.com##.style-scope.ytd-popup-container
+! youtube.com##.ytp-pause-overlay
+! youtube.com###chat
+! youtube.com##.opened
+! youtube.com##.style-scope.ytd-popup-container
 coupangplay.com##.PlayerReco_playerReco__4NjVR
 ! fake news
 www.chosun.com##*
