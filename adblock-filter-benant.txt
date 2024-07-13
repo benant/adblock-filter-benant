@@ -67,6 +67,7 @@ naverccrp.com##*
 footagegift.com##*
 ! 19
 superchatlive.com##*
+mib19.co.kr##*
 ! YouTube
 ! youtube.com##.ytp-pause-overlay
 ! youtube.com###chat
