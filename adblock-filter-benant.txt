@@ -68,6 +68,7 @@ footagegift.com##*
 ! 19
 superchatlive.com##*
 mib19.co.kr##*
+##DIV[class="event8"]
 ! YouTube
 ! youtube.com##.ytp-pause-overlay
 ! youtube.com###chat
