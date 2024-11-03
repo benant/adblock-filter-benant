@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: https://github.com/benant/adblock-filter-benant/
-! Title: benant
+! Title: benant - block ads
 ! Version: 20190120
 ! Translate simple filters - https://adblockplus.org/en/deregifier
 ! Find useless filters - https://adblockplus.org/ko/redundancy_check
