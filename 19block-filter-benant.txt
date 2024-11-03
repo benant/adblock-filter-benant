@@ -1,0 +1,15 @@
+[Adblock]
+! Homepage: https://github.com/benant/adblock-filter-benant/
+! Title: benant - block 19
+! Version: 20241104
+! Translate simple filters - https://adblockplus.org/en/deregifier
+! Find useless filters - https://adblockplus.org/ko/redundancy_check
+! 19
+superchatlive.com##*
+anilife.live##a[href="https://kr1.yohli24.net/"]
+anilife.live##a[href="https://kr1.yohli24.net"]
+! URL filter
+*.yohli24.net
+*.yohli24.net*$third-party
+! DOM filter
+##a[href*="bannerhit.php"]
