@@ -86,3 +86,4 @@ olymptrade.com##*
 dexpredict.com##*
 ! shopping
 danawa.com##.main_ad_prodlist
+search.shopping.naver.com##.adProduct_item__1zC9h
