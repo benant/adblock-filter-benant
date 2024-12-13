@@ -65,7 +65,8 @@ coinnone.net##*
 coinnoinc.com##*
 naverccrp.com##*
 footagegift.com##*
-kakaotalk.new-version.download##*
+new-version.download##*
+*.download##*
 ! 19
 superchatlive.com##*
 mib19.co.kr##*
