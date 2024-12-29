@@ -11,6 +11,12 @@ anilife.live##a[href="https://kr1.yohli24.net"]
 anilife.live##.MainBnnWrap
 anilife.live##a[href="/genre/categorize/헨타이"]
 pornhub.com##*
+nsfwkr.net##*
+tostar01.com##*
+totogun.com##*
+darkgg7.top##*
+oppang.com##*
+pornwavve.com##*
 ! URL filter
 *.yohli24.net
 *.yohli24.net*$third-party
