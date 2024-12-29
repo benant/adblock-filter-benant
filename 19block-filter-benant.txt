@@ -10,6 +10,7 @@ anilife.live##a[href="https://kr1.yohli24.net/"]
 anilife.live##a[href="https://kr1.yohli24.net"]
 anilife.live##.MainBnnWrap
 anilife.live##a[href="/genre/categorize/헨타이"]
+pornhub.com##*
 ! URL filter
 *.yohli24.net
 *.yohli24.net*$third-party
