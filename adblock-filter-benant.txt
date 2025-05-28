@@ -84,6 +84,7 @@ www.donga.com##*
 ilbe.com##*
 tl.ytlogs.ru##*
 clpartywatch.com##*
+fmkorea.com##*
 ! ads on Dark
 olymptrade.com##*
 dexpredict.com##*
